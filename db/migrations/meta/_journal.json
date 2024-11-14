@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1730975614292,
+      "tag": "20241107103334_parallel_jigsaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1730975611060,
+      "tag": "20241107103331_famous_nehzno",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1731311550440,
+      "tag": "20241111075230_wealthy_shiva",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1731468826549,
+      "tag": "20241113033346_perpetual_dreaming_celestial",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1731469722707,
+      "tag": "20241113034842_yummy_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1731470739470,
+      "tag": "20241113040539_burly_captain_america",
+      "breakpoints": true
+    }
+  ]
+}

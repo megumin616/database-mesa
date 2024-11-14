@@ -1,0 +1,2 @@
+ALTER TABLE `permission_ref` ADD CONSTRAINT `permission_ref_user_id_fk` FOREIGN KEY (`user_id`) REFERENCES `users`(`user_id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `permission_ref` ADD CONSTRAINT `permission_ref_master_id_fk` FOREIGN KEY (`permission_id`) REFERENCES `pemission_master`(`permission_id`) ON DELETE no action ON UPDATE no action;

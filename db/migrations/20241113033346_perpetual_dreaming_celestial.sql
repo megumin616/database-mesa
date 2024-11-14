@@ -1,0 +1,2 @@
+ALTER TABLE `user_ref_roles` ADD CONSTRAINT `user_id_fk` FOREIGN KEY (`user_id`) REFERENCES `users`(`user_id`) ON DELETE no action ON UPDATE no action;--> statement-breakpoint
+ALTER TABLE `user_ref_roles` ADD CONSTRAINT `role_id_fk` FOREIGN KEY (`role_id`) REFERENCES `user_roles`(`role_id`) ON DELETE no action ON UPDATE no action;
